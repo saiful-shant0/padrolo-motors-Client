@@ -1,0 +1,11 @@
+.footer-section{
+    margin-top: 50px;
+    padding: 1rem;
+    background-color: rgb(14, 13, 13);
+
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+  }
